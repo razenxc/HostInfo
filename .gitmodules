@@ -1,0 +1,3 @@
+[submodule "Service/thirdparty/serial"]
+	path = Service/thirdparty/serial
+	url = https://github.com/wjwwood/serial
