@@ -1,5 +1,5 @@
 set(SOURCE_FILES 
-    main.cpp
+    main.cpp utils.cpp utils.h
     )
 
 add_executable(${PROJECT_NAME} ${SOURCE_FILES})
